@@ -9,10 +9,6 @@ class Student
  String fac_name;
  String dept;
  int feedback;
- public Student() 
- {
-  this(" ",0," "," ", 0);
- }
 
  //creating constructor and initializing variables to user data
  public Student(String initName, int initstu_id, String initFac_Name, String initDept, int initfeedback)
