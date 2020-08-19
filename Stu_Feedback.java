@@ -27,7 +27,7 @@ public static void main(String args[])
  {
  try
   {  
-    /*Scanner in = new Scanner(System.in);*/
+    
     BufferedReader in=new BufferedReader(new InputStreamReader(System.in));
     System.out.println("ENTER THE DETAILES HERE");
     System.out.println("DIRECTIONS FOR GIVING FEEDBACK:1=POOR  2=FAIR  3=GOOD  4=VERY GOOD  5=EXCELLENT");
