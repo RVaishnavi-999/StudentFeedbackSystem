@@ -1,4 +1,4 @@
-/*Lab 7 : Implementation of inheritance, super.   */
+/*Lab 7 : Implementation of inheritance, super keyword.   */
 
 import java.io.*;
 
